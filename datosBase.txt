@@ -1,0 +1,3 @@
+nombre base de datos: peluqueriacanina
+usuario: admin
+contraseña: pelu1234
